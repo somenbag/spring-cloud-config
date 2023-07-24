@@ -9,6 +9,6 @@ eureka:
 
 spring:
   boot:
-    message: new 
+    message: new update
       
 
