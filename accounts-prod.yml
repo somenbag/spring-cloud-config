@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related to prod APIs"
   contactDetails:
     name: "Abinash Sahu"
-    email: "abinash@gmail.com"
+    email: "{cipher}baec8ca758f661b1e5c7c462ba74822ca7bb61abac53a19b67f29a8edba26ce47b9628de2bd39cabeb440eebbbbe6007"
   onCallSupport:
     -(555)555-4563
     -(555)665-4352
