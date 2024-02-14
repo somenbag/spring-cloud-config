@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related to prod APIs"
+  contactDetails:
+    name: "Abinash Sahu"
+    email: "abinash@gmail.com"
+  onCallSupport:
+    -(555)555-4563
+    -(555)665-4352
